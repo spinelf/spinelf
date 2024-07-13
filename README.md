@@ -26,7 +26,7 @@
 <td width="50%">
 <h3 align="center">Juegos Clásicos con Python</h3>
 <div align="center">
-<a href="" target="_blank"><img src=".jpg" width="400" alt="Juegos Clásicos con Python"></a>
+<a href="https://github.com/spinelf/Proyecto1_Juegos_clasicos_en_Python.git" target="_blank"><img src=".jpg" width="400" alt="Juegos Clásicos con Python"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
