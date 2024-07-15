@@ -3,16 +3,16 @@
 <h1 align="center">Hola, soy <a href="">Silvia</a> 👋</h1>
 </div>
 
+<div align="center">
+<img width="729" alt="Banner github" src="https://github.com/user-attachments/assets/febecf70-0218-494a-b9a6-d59ff3f45815">
 
-
-<img width="972" alt="Banner github" src="https://github.com/user-attachments/assets/113673bb-9ef0-48ee-b151-31ea82d541fe">
 
 
 ![GitHub followers](https://img.shields.io/github/followers/spinelf)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/spinelf/spinelf)
 ![GitHub contributors](https://img.shields.io/github/contributors/spinelf/spinelf)
 
-
+</div>
 ## Sobre mi
 
 - ⭐ 
