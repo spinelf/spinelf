@@ -34,6 +34,7 @@
      <a href="https://github.com/spinelf/Proyecto1_Juegos_clasicos_en_Python.git" target="_blank">
      <img width="329" alt="Juegos" src="https://github.com/user-attachments/assets/3560e714-bb9d-4b06-ad77-ab4fc4890ffb" alt="Juegos Clásicos con Python">
      <p>
+       </br>
       <a href="https://github.com/spinelf/Proyecto1_Juegos_clasicos_en_Python.git" target="_blank">
        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
      </a>
@@ -51,6 +52,7 @@
          <img width="329" alt="Proyecto de cine: CinemExtract" src="https://github.com/user-attachments/assets/bfb5bfaf-e7e3-499c-a057-77e49ce5d771">
        <br>
        <p>
+         </br>
          <a href="https://github.com/spinelf/Proyecto2_CinemExtract.git" target="_blank">
            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
          </a>   
@@ -71,6 +73,7 @@
           <img width="329" alt="Optimización de Talento" src="https://github.com/user-attachments/assets/bd7c3539-7852-4928-a189-d2ad46ea97ed">
         </a>
         <p>
+      </br>
           <a href="https://github.com/spinelf/Proyecto3_Optimizacion_de_talento.git" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
@@ -87,6 +90,7 @@
     <img width="329" alt="Power BI" src="https://github.com/user-attachments/assets/d0698508-008e-4839-9632-082011b84d97">
    </a>
    <p>
+     </br>
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
     </a>
