@@ -22,6 +22,27 @@
 
 <p>Me considero una persona muy orientada a objetivos, organizada y proactiva, con una gran motivación para aprender y crecer en el ámbito de IT. Aunque cuento con más de 15 años de experiencia en el sector financiero, estoy buscando mi primera oportunidad profesional en tecnología para aplicar mis nuevas habilidades y contribuir con una perspectiva fresca y conocimientos técnicos actualizados. Estoy entusiasmada por aportar todo mi conocimiento y continuar desarrollándome en esta nueva trayectoria.</p>
 
+## Tecnologías
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img width="100" alt="Banner Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img width="100" alt="Banner Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img width="100" alt="Banner NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img width="100" alt="Banner Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img width="100" alt="Banner scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img width="100" alt="Banner Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img width="100" alt="Banner html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img width="100" alt="Banner bootsrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img width="100" alt="Banner spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img width="100" alt="Banner mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img width="100" alt="Banner sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img width="100" alt="Banner power bi" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img width="100" alt="Banner figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img width="100" alt="Banner power bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img width="100" alt="Banner Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img width="100" alt="Banner jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  
+
+</div>
 <br>
 
 ## Últimos Proyectos
