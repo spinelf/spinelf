@@ -28,7 +28,7 @@
 <div align="center">
 <a href="https://github.com/spinelf/Proyecto1_Juegos_clasicos_en_Python.git" target="_blank"><img src=".jpg" width="400" alt="Juegos Clásicos con Python"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/spinelf/Proyecto1_Juegos_clasicos_en_Python.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -41,10 +41,10 @@
                <br>
 <h3 align="center">Proyecto de cine: CinemExtract</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src=".jpg" width="400" alt="Proyecto de cine: CinemExtract"></a>
+<a href="https://github.com/spinelf/Proyecto2_CinemExtract.git" target="_blank"><img src=".jpg" width="400" alt="Proyecto de cine: CinemExtract"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/spinelf/Proyecto2_CinemExtract.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
