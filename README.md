@@ -69,7 +69,7 @@
     <td width="50%">
       <h3 align="center">Optimización de Talento</h3>
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/spinelf/Proyecto3_Optimizacion_de_talento.git" target="_blank">
           <img width="329" alt="Optimización de Talento" src="https://github.com/user-attachments/assets/bd7c3539-7852-4928-a189-d2ad46ea97ed">
         </a>
         <p>
@@ -86,12 +86,12 @@
 <td width="50%">
   <h3 align="center">Visualización</h3>
   <div align="center">
-   <a href="" target="_blank">
+   <a href="https://github.com/spinelf/Proyecto4_Infinite_insights.git" target="_blank">
     <img width="329" alt="Power BI" src="https://github.com/user-attachments/assets/d0698508-008e-4839-9632-082011b84d97">
    </a>
    <p>
      </br>
-    <a href="" target="_blank">
+    <a href="https://github.com/spinelf/Proyecto4_Infinite_insights.git" target="_blank">
       <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
     </a>
    </p>
