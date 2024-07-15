@@ -3,7 +3,10 @@
 <h1 align="center">Hola, soy <a href="">Silvia</a> 👋</h1>
 </div>
 
-![Banner github](https://github.com/user-attachments/assets/df722afe-d706-43c1-935c-80b7aaa3cae1)
+
+
+<img width="972" alt="Banner github" src="https://github.com/user-attachments/assets/113673bb-9ef0-48ee-b151-31ea82d541fe">
+
 
 ![GitHub followers](https://img.shields.io/github/followers/spinelf)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/spinelf/spinelf)
