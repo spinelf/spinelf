@@ -60,7 +60,9 @@
        </p>
      </div>
 </td>
-</tr>                                                                        
+</tr>
+</table>
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">Optimización de Talento</h3>
@@ -90,8 +92,7 @@
     </a>
    </p>
   <p>Problema de este conjunto de datos: Análisis y Optimización de Cancelaciones de Reservas.El hotel ha notado un aumento en el número de cancelaciones de reservas en los últimos meses y necesita comprender las causas y patrones 
-   detrás de estas cancelaciones para tomar medidas correctivas. El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de reservas y crear visualizaciones impactantes para que la gerencia pueda identificar áreas de 
-   mejora y tomar decisiones informadas para reducir la tasa de cancelación.  
+   detrás de estas cancelaciones para tomar medidas correctivas. El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de reservas. 
   </p>
  </div>                                                                                   
 </td>
