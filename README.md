@@ -18,9 +18,8 @@
 
 ## Sobre mi
 
-<p>Siempre he sido un apasionada de los datos y las nuevas tecnologías, por ello, hace un par de años, decidí dar un giro a mi vida profesional para adentrarme en el fascinante mucho del análisis de datos. Estudié un grado superior en desarrollo de aplicaciones Web y posteriormente completé mi formación con un bootcamp de Data Analyst, donde descubrí mi pasión por el análisis de datos y la programación.</p>
+<p>Con más de 15 años de experiencia en el sector financiero y un grado superior en desarrollo de aplicaciones web, puedo contribuir en el sector de la tecnología con mi notable experiencia en business, y a la vez con una perspectiva fresca y conocimientos técnicos actualizados. Soy una persona muy orientada a objetivos, organizada y proactiva, con gran motivación para aprender y crecer en el ámbito IT.</p>
 
-<p>Me considero una persona muy orientada a objetivos, organizada y proactiva, con una gran motivación para aprender y crecer en el ámbito de IT. Aunque cuento con más de 15 años de experiencia en el sector financiero, estoy buscando mi primera oportunidad profesional en tecnología para aplicar mis nuevas habilidades y contribuir con una perspectiva fresca y conocimientos técnicos actualizados. Estoy entusiasmada por aportar todo mi conocimiento y continuar desarrollándome en esta nueva trayectoria.</p>
 
 ## Tecnologías
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
